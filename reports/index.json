@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-110921-c7n4",
+      "title": "Dükïe, Jerichoya, On Desh",
+      "commanders": [
+        "Dükïe",
+        "Jerichoya",
+        "On Desh"
+      ],
+      "dateStart": "2026-06-06T15:09:21.000Z",
+      "dateEnd": "2026-06-06T17:40:35.000Z",
+      "dateLabel": "6/6/2026, 11:09:21 AM - 6/6/2026, 1:40:35 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260606-110921-c7n4",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260604-002135-jc4v",
       "title": "Legion Timebender",
       "commanders": [
