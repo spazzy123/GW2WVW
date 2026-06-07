@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-194446-co28",
+      "title": "Bubble Wrap Il, Dxshka Vol",
+      "commanders": [
+        "Bubble Wrap Il",
+        "Dxshka Vol"
+      ],
+      "dateStart": "2026-06-06T23:44:46.000Z",
+      "dateEnd": "2026-06-07T01:56:49.000Z",
+      "dateLabel": "6/6/2026, 7:44:46 PM - 6/6/2026, 9:56:49 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260606-194446-co28",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260606-110921-c7n4",
       "title": "Dükïe, Jerichoya, On Desh",
       "commanders": [
