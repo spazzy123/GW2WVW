@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260607-195710-iodr",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-06-07T23:57:10.000Z",
+      "dateEnd": "2026-06-08T00:56:11.000Z",
+      "dateLabel": "6/7/2026, 7:57:10 PM - 6/7/2026, 8:56:11 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260607-195710-iodr",
+      "summary": {
+        "borderlandsPct": 0.3793103448275862,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260606-194446-co28",
       "title": "Bubble Wrap Il, Dxshka Vol",
       "commanders": [
