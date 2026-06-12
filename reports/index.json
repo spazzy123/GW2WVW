@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260611-210448-qtnv",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-06-12T01:04:48.000Z",
+      "dateEnd": "2026-06-12T01:46:08.000Z",
+      "dateLabel": "6/11/2026, 9:04:48 PM - 6/11/2026, 9:46:08 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260611-210448-qtnv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 37,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260607-195710-iodr",
       "title": "B U B B L E C A R",
       "commanders": [
