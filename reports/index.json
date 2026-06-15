@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-200951-qehn",
+      "title": "Bubble Wrap Il",
+      "commanders": [
+        "Bubble Wrap Il"
+      ],
+      "dateStart": "2026-06-15T00:09:51.000Z",
+      "dateEnd": "2026-06-15T01:34:48.000Z",
+      "dateLabel": "6/14/2026, 8:09:51 PM - 6/14/2026, 9:34:48 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260614-200951-qehn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260611-210448-qtnv",
       "title": "Paralda",
       "commanders": [
