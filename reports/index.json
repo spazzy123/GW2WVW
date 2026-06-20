@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260619-220909-4cem",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-06-20T02:09:09.000Z",
+      "dateEnd": "2026-06-20T03:21:29.000Z",
+      "dateLabel": "6/19/2026, 10:09:09 PM - 6/19/2026, 11:21:29 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260619-220909-4cem",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 64
+      }
+    },
+    {
       "id": "20260614-200951-qehn",
       "title": "Bubble Wrap Il",
       "commanders": [
