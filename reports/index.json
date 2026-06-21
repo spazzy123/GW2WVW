@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-201207-ku5x",
+      "title": "Bubble Wrap Il, Dxshka Vol",
+      "commanders": [
+        "Bubble Wrap Il",
+        "Dxshka Vol"
+      ],
+      "dateStart": "2026-06-21T00:12:07.000Z",
+      "dateEnd": "2026-06-21T01:27:34.000Z",
+      "dateLabel": "6/20/2026, 8:12:07 PM - 6/20/2026, 9:27:34 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260620-201207-ku5x",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 61
+      }
+    },
+    {
       "id": "20260619-220909-4cem",
       "title": "Vape Onion Star",
       "commanders": [
