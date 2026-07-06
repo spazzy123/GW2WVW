@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-201753-dnr3",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-07-06T00:17:53.000Z",
+      "dateEnd": "2026-07-06T02:09:21.000Z",
+      "dateLabel": "7/5/2026, 8:17:53 PM - 7/5/2026, 10:09:21 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260705-201753-dnr3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260628-200837-brwg",
       "title": "B U B B L E C A R",
       "commanders": [
