@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-210400-ha8a",
+      "title": "Dxshka Vol",
+      "commanders": [
+        "Dxshka Vol"
+      ],
+      "dateStart": "2026-07-09T01:04:00.000Z",
+      "dateEnd": "2026-07-09T02:09:54.000Z",
+      "dateLabel": "7/8/2026, 9:04:00 PM - 7/8/2026, 10:09:54 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260708-210400-ha8a",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260705-201753-dnr3",
       "title": "B U B B L E C A R",
       "commanders": [
