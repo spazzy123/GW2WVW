@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-200419-odjt",
+      "title": "Deshka Il",
+      "commanders": [
+        "Deshka Il"
+      ],
+      "dateStart": "2026-07-16T00:04:19.000Z",
+      "dateEnd": "2026-07-16T00:35:55.000Z",
+      "dateLabel": "7/15/2026, 8:04:19 PM - 7/15/2026, 8:35:55 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260715-200419-odjt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260711-195358-ry8d",
       "title": "B U B B L E C A R, Dxshka Vol",
       "commanders": [
