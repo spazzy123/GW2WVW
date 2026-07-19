@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-201002-00g0",
+      "title": "B U B B L E C A R, Tundra War",
+      "commanders": [
+        "B U B B L E C A R",
+        "Tundra War"
+      ],
+      "dateStart": "2026-07-19T00:10:02.000Z",
+      "dateEnd": "2026-07-19T03:11:47.000Z",
+      "dateLabel": "7/18/2026, 8:10:02 PM - 7/18/2026, 11:11:47 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260718-201002-00g0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 34,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 61
+      }
+    },
+    {
       "id": "20260715-200419-odjt",
       "title": "Deshka Il",
       "commanders": [
