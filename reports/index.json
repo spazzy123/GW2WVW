@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-200347-nl2y",
+      "title": "Deshka Il",
+      "commanders": [
+        "Deshka Il"
+      ],
+      "dateStart": "2026-07-26T00:03:47.000Z",
+      "dateEnd": "2026-07-26T01:39:55.000Z",
+      "dateLabel": "7/25/2026, 8:03:47 PM - 7/25/2026, 9:39:55 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260725-200347-nl2y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260722-194154-2kdu",
       "title": "Deshka Il",
       "commanders": [
