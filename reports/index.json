@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-220854-yrzk",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-08T02:08:54.000Z",
+      "dateEnd": "2026-08-08T03:19:34.000Z",
+      "dateLabel": "8/7/2026, 10:08:54 PM - 8/7/2026, 11:19:34 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260807-220854-yrzk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 64
+      }
+    },
+    {
       "id": "20260802-200849-exhu",
       "title": "B U B B L E C A R",
       "commanders": [
