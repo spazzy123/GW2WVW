@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-200427-d2a4",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-10T00:04:27.000Z",
+      "dateEnd": "2026-08-10T01:56:27.000Z",
+      "dateLabel": "8/9/2026, 8:04:27 PM - 8/9/2026, 9:56:27 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260809-200427-d2a4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260808-200231-bmif",
       "title": "B U B B L E C A R, Dxshka Vol",
       "commanders": [
