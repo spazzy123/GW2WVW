@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260811-205555-ghvw",
+      "title": "Modus Gnosis",
+      "commanders": [
+        "Modus Gnosis"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-12T00:55:55.000Z",
+      "dateEnd": "2026-08-12T01:49:43.000Z",
+      "dateLabel": "8/11/2026, 8:55:55 PM - 8/11/2026, 9:49:43 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260811-205555-ghvw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260809-200427-d2a4",
       "title": "B U B B L E C A R",
       "commanders": [
