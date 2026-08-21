@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-211038-7kxn",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
+      ],
+      "guild": {
+        "id": "016D9407-EDBB-EA11-81A8-83C7278578E0",
+        "name": "Stressin",
+        "tag": "PPT"
+      },
+      "dateStart": "2026-08-21T01:10:38.000Z",
+      "dateEnd": "2026-08-21T02:05:39.847Z",
+      "dateLabel": "8/20/2026, 9:10:38 PM - 8/20/2026, 10:05:39 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260820-211038-7kxn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260815-210438-26ry",
       "title": "B U B B L E C A R",
       "commanders": [
