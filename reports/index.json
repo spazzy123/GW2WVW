@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-215806-tf1z",
+      "title": "Typemander",
+      "commanders": [
+        "Typemander"
+      ],
+      "guild": {
+        "id": "FE5E0535-63E1-48B9-92C7-059943DE1388",
+        "name": "Minty",
+        "tag": "MINT"
+      },
+      "dateStart": "2026-09-02T01:58:06.000Z",
+      "dateEnd": "2026-09-02T02:49:12.979Z",
+      "dateLabel": "9/1/2026, 9:58:06 PM - 9/1/2026, 10:49:12 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260901-215806-tf1z",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260830-204828-aa03",
       "title": "Super Soaker Star",
       "commanders": [
