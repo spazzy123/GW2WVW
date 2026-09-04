@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-181024-np84",
+      "title": "Penguinz Is Chilly, Super Soaker Star",
+      "commanders": [
+        "Penguinz Is Chilly",
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "28680AEB-6963-E611-80D4-E4115BDFF975",
+        "name": "Mada",
+        "tag": "Mada"
+      },
+      "dateStart": "2026-09-03T22:10:24.000Z",
+      "dateEnd": "2026-09-04T04:34:44.480Z",
+      "dateLabel": "9/3/2026, 6:10:24 PM - 9/4/2026, 12:34:44 AM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260903-181024-np84",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260901-215806-tf1z",
       "title": "Typemander",
       "commanders": [
