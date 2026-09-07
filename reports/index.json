@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-200617-cjch",
+      "title": "Dxshka Vol",
+      "commanders": [
+        "Dxshka Vol"
+      ],
+      "guild": {
+        "id": "61DB2596-BB96-F111-BB22-1249AB9AC125",
+        "name": "Eternal Battle Gírlfriends",
+        "tag": "EBGf"
+      },
+      "dateStart": "2026-09-07T00:06:17.000Z",
+      "dateEnd": "2026-09-07T01:11:15.510Z",
+      "dateLabel": "9/6/2026, 8:06:17 PM - 9/6/2026, 9:11:15 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260906-200617-cjch",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260905-195204-xwpr",
       "title": "B U B B L E C A R",
       "commanders": [
