@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-221400-i91m",
+      "title": "Shogun Pengin",
+      "commanders": [
+        "Shogun Pengin"
+      ],
+      "guild": {
+        "id": "28680AEB-6963-E611-80D4-E4115BDFF975",
+        "name": "Mada",
+        "tag": "Mada"
+      },
+      "dateStart": "2026-09-19T02:14:00.000Z",
+      "dateEnd": "2026-09-19T03:20:03.570Z",
+      "dateLabel": "9/18/2026, 10:14:00 PM - 9/18/2026, 11:20:03 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260918-221400-i91m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 63
+      }
+    },
+    {
       "id": "20260917-193810-entw",
       "title": "Dxshka Vol",
       "commanders": [
