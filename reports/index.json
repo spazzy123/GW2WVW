@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-200913-n72y",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "guild": {
+        "id": "61DB2596-BB96-F111-BB22-1249AB9AC125",
+        "name": "Eternal Battle Gírlfriends",
+        "tag": "EBGf"
+      },
+      "dateStart": "2026-09-20T00:09:13.000Z",
+      "dateEnd": "2026-09-20T00:46:24.387Z",
+      "dateLabel": "9/19/2026, 8:09:13 PM - 9/19/2026, 8:46:24 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260919-200913-n72y",
+      "summary": {
+        "borderlandsPct": 0.27586206896551724,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260918-221400-i91m",
       "title": "Shogun Pengin",
       "commanders": [
