@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260922-192812-swry",
+      "title": "Super Soaker Star",
+      "commanders": [
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-09-22T23:28:12.000Z",
+      "dateEnd": "2026-09-23T00:17:37.313Z",
+      "dateLabel": "9/22/2026, 7:28:12 PM - 9/22/2026, 8:17:37 PM",
+      "url": "https://spazzy123.github.io/GW2WVW/?report=20260922-192812-swry",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260919-200913-n72y",
       "title": "B U B B L E C A R",
       "commanders": [
